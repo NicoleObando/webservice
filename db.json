@@ -1,4 +1,3 @@
-{
-"usuarios": {"idusuario":1,"usuario":"Shimberly","pass":"kim","name":"Nicole Obando"}
-
-}
+[
+"usuarios": {"idusuario":1,"usuario":"nob","pass":"123","name":"Nicole Obando"},{"idusuario":2,"usuario":"nob","pass":"123","name":"Obando"}
+]
