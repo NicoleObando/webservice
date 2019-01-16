@@ -1,3 +1,6 @@
-[
-"usuarios": {"idusuario":1,"usuario":"nob","pass":"123","name":"Nicole Obando"},{"idusuario":2,"usuario":"nob","pass":"123","name":"Obando"}
-]
+{
+  "idusuario": 1,
+  "usuario": "nico",
+  "pass": "123",
+  "name": "Nicole Obando"
+}
